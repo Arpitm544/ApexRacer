@@ -1,0 +1,21 @@
+# Unreal Engine Generated Folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.xcworkspace
+*.xcodeproj
+
+# Visual Studio files
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Mac OS files
+.DS_Store
